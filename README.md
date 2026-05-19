@@ -1,2 +1,2 @@
 # spincycle-releases
-Public Release versions of SpinCycle
+Sparkle update feed and binary releases for SpinCycle
