@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="SpinCycleIcon.png" width="128" height="128" alt="SpinCycle icon">
+</p>
+
 # SpinCycle
 
 A native macOS Swift app that transcodes video files to well known live video formats as well as create seamless looping clips for those times you just need a loop and the clip is not created that way.
