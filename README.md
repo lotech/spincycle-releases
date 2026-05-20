@@ -1,6 +1,6 @@
 # SpinCycle
 
-A native macOS Swift app that converts video files as well as allowing to create seamless looping videos.
+A native macOS Swift app that transcodes video files to well known live video formats as well as create seamless looping clips for those times you just need a loop and the clip is not created that way.
 
 ## How looping works
 
