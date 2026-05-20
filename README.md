@@ -1,8 +1,8 @@
 # SpinCycle
 
-A native macOS app (Swift/SwiftUI) that converts video files into seamless looping videos using FFmpeg.
+A native macOS Swift app that converts video files as well as allowing to create seamless looping videos.
 
-## How it works
+## How looping works
 
 1. **Trim** — Removes the first N seconds of the input (default 4s) to cut encoding noise
 2. **Split** — Calculates a cut point at N% of the remaining duration (default 5%) and splits the video into Part A (start→cut) and Part B (cut→end)
