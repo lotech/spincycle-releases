@@ -4,12 +4,12 @@
         <title>SpinCycle</title>
         <item>
             <title>1.1.0</title>
-            <pubDate>Fri, 22 May 2026 18:22:34 +1200</pubDate>
+            <pubDate>Fri, 22 May 2026 19:39:48 +1200</pubDate>
             <sparkle:version>1.1.0</sparkle:version>
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/lotech/spincycle-releases/releases/download/v1.1.0/SpinCycle-1.1.0.zip" length="58846730" type="application/octet-stream" sparkle:edSignature="CyW78LQYKhrV9fXDz9uIRnicUJz3Ps5I5Ec/mjy/6DW8A7DAVNAPKOZvKxTcw3sgr99CYbLQIz03JERjrz+cDw=="/>
+            <enclosure url="https://github.com/lotech/spincycle-releases/releases/download/v1.1.0/SpinCycle-1.1.0-update.zip" length="58846723" type="application/octet-stream" sparkle:edSignature="t+7Dv4zfxuBE4txGu2eoa2RiGBBy0fO/C6JQisioOomMvfFc+tBkf6/xzQjL8eAF8kRgmfALTg7aoj7hl62NDg=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/lotech/spincycle-releases/releases/download/v1.1.0/SpinCycle1.1.0-1.0.0.delta" sparkle:deltaFrom="1.0.0" length="437786" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="q3hqthmSb0GGuX+MZkvbxllJGu+SiLvmvvyaMiTH2gs/VDiKA/6nUZ3doIzlLZ6pHsvppX+u391yap8pKuZ1Bg=="/>
             </sparkle:deltas>
