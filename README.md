@@ -6,6 +6,9 @@
 
 A native macOS Apple Silicon app for batch transcoding of video files to well known live video formats. It features a unique feature to create seamless looping versions for those times you just need a loop from a standard A->B clip (we've all been there). Designed by someone who works in live events and just wanted to make life easier than jumping into an NLE and doing this all manually and often to many clips.
 
+## Note
+I have not extensively tested Alpha channel clips but they should work. Please report back if theres an issue.
+
 ## Codecs currently supported
 - h264 mp4
 - h265 mp4
