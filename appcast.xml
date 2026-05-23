@@ -24,14 +24,5 @@
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/lotech/spincycle-releases/releases/download/v1.1.1/SpinCycle-1.1.0-update.zip" length="58846723" type="application/octet-stream" sparkle:edSignature="t+7Dv4zfxuBE4txGu2eoa2RiGBBy0fO/C6JQisioOomMvfFc+tBkf6/xzQjL8eAF8kRgmfALTg7aoj7hl62NDg=="/>
         </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Wed, 20 May 2026 12:40:45 +1200</pubDate>
-            <sparkle:version>1.0.0</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/lotech/spincycle-releases/releases/download/v1.1.1/SpinCycle-1.0.0.zip" length="59367189" type="application/octet-stream" sparkle:edSignature="fcCZnfR5MGMvbuZCSREhzOgOfAbOnn4+ObArJAiG5nS91acfQ1m7i8fE+jq+2KZP1lzemtT78/4ObAv1RigLBA=="/>
-        </item>
-    </channel>
+     </channel>
 </rss>
